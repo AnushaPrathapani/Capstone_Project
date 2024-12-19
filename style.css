@@ -162,3 +162,24 @@ img{
     color: rgba(33, 33, 33, 0.62);
     margin: 2px 0;
 }
+footer p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    color: rgba(33, 33, 33, 0.62);
+}
+footer .contact-button{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    border: 1.5px solid rgba(92, 92, 92, 0.2);
+    border-radius: 16px;
+    background-color:#FCFCFC;
+    padding: 0px 25px;
+}
+footer .footer-content{
+    display: flex;
+    justify-content: space-between;
+    line-height: 0.1;
+    margin: 235px 5px 30px 5px;
+}
